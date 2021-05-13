@@ -8,6 +8,7 @@ https://news.pchome.com.tw
 https://www.google.com.tw/search?q=linux+unix
 https://www.w3schools.com/action_page2.php?text=foo%21bar*
 https://www.w3schools.com/action_page2.php?text=foo%2#%2!%21bar
+https://www.w3schools.com/action_page2.php?text=foo%2%23%2!%21bar
 https://www.w3schools.com/action_page2.php?text=foo%2#%2!%21bar%
 https://www.w3schools.com/action_page2.php?text=foo%2#%2!%21bar%2
 https://www.w3schools.com/action_page2.php?text=%24%25%26%27%28
@@ -19,7 +20,7 @@ https://www.w3schools.com/action_page2.php?text=)*
 https://www.w3schools.com/action_page2.php?text=)*+
 https://www.w3schools.com/action_page2.php?text=)+,-
 https://www.w3schools.com/action_page2.php?text=+,-
-https://www.w3schools.com/action_page2.php?text=+
+https://www.w3schools.com/action_page2.php?text=A+B
 https://www.w3schools.com/action_page2.php?text=-
 https://www.w3schools.com/action_page2.php?text=-+
 https://www.w3schools.com/action_page2.php?text=%2B

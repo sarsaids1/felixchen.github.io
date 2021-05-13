@@ -10,3 +10,5 @@ https://www.w3schools.com/action_page2.php?text=foo%21bar*
 https://www.w3schools.com/action_page2.php?text=foo%2#%2!%21bar
 https://www.w3schools.com/action_page2.php?text=foo%2#%2!%21bar%
 https://www.w3schools.com/action_page2.php?text=foo%2#%2!%21bar%2
+https://www.w3schools.com/action_page2.php?text=%24%25%26%27%28
+https://www.w3schools.com/action_page2.php?text=)*+,-

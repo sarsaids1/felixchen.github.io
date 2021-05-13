@@ -1,0 +1,12 @@
+http://publiclib.nlpi.edu.tw/index.php/world*
+http://publiclib.nlpi.edu.tw/index.php/ya-*
+*.tth.url.tw
+https://www.facebook.com/
+https://tw.news.yahoo.com/finance
+https://news.pchome.com.tw/cat/fina*
+https://news.pchome.com.tw
+https://www.google.com.tw/search?q=linux+unix
+https://www.w3schools.com/action_page2.php?text=foo%21bar*
+https://www.w3schools.com/action_page2.php?text=foo%2#%2!%21bar
+https://www.w3schools.com/action_page2.php?text=foo%2#%2!%21bar%
+https://www.w3schools.com/action_page2.php?text=foo%2#%2!%21bar%2

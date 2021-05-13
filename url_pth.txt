@@ -14,3 +14,6 @@ https://www.w3schools.com/action_page2.php?text=%24%25%26%27%28
 https://www.w3schools.com/action_page2.php?text=)*+,-
 https://www.w3schools.com/action_page2.php?text=%30%31%32%33%34
 https://www.w3schools.com/action_page2.php?text=%29%2A%2B%2C
+https://www.w3schools.com/action_page2.php?text=)
+https://www.w3schools.com/action_page2.php?text=)*
+https://www.w3schools.com/action_page2.php?text=)*+
